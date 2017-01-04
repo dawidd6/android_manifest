@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="dawidd6/android_device_samsung_i9305" path="device/samsung/i9305" remote="github" revision="n-3.0" />
+  <project name="dawidd6/android_device_samsung_i9305" path="device/samsung/i9305" remote="github" revision="omni-6.0" />
   <project name="CrazyWeasel/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="n-3.0" />
   <project name="NamelessRom/android_device_samsung_smdk4412-common" path="device/samsung/smdk4412-common" remote="github" revision="n-3.0" />
   <project name="NamelessRom/android_device_samsung_smdk4412-qcom-common" path="device/samsung/smdk4412-qcom-common" remote="github" revision="n-3.0" />
